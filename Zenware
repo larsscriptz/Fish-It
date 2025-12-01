@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/larsscriptz/Fish-It/refs/heads/main/Loadstring",true))()
